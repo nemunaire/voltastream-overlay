@@ -3,6 +3,8 @@ Voltastream Gentoo Overlay
 
 This overlay includes ebuilds for the following packages:
 
+* `sys-kernel/polyvection-sources`: Linux source for Voltastream devices <https://github.com/PolyVection/linux-imx>
+
 
 Usage with Portage
 ------------------
